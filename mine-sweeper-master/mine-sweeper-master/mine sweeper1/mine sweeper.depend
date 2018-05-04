@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1482524583 source:c:\users\belal adel\desktop\mine sweeper\main.c
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"scan.h"
+	"print.h"
+	"empty.h"
+	"mine.h"
+	"losing.h"
+	"winning.h"
+	"open.h"
+	"save.h"
+	"gamePlay.h"
+	"wait.h"
+
+1482271106 c:\users\belal adel\desktop\mine sweeper\scan.h
+	<windows.h>
+
+1482318320 c:\users\belal adel\desktop\mine sweeper\print.h
+	<windows.h>
+
+1482587472 c:\users\belal adel\desktop\mine sweeper\empty.h
+
+1481843826 c:\users\belal adel\desktop\mine sweeper\mine.h
+
+1482565878 c:\users\belal adel\desktop\mine sweeper\losing.h
+
+1482595319 c:\users\belal adel\desktop\mine sweeper\winning.h
+
+1482277088 c:\users\belal adel\desktop\mine sweeper\open.h
+
+1482217375 c:\users\belal adel\desktop\mine sweeper\save.h
+
+1482524485 c:\users\belal adel\desktop\mine sweeper\gameplay.h
+
+1482524669 c:\users\belal adel\desktop\mine sweeper\wait.h
+
+1482926796 source:e:\sara's collage\programming\mine sweeper\main.c
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"scan.h"
+	"print.h"
+	"empty.h"
+	"mine.h"
+	"losing.h"
+	"winning.h"
+	"open.h"
+	"save.h"
+	"gamePlay.h"
+	"wait.h"
+
+1482862689 e:\sara's collage\programming\mine sweeper\scan.h
+	<windows.h>
+
+1482318322 e:\sara's collage\programming\mine sweeper\print.h
+	<windows.h>
+
+1482863174 e:\sara's collage\programming\mine sweeper\empty.h
+
+1482863805 e:\sara's collage\programming\mine sweeper\mine.h
+
+1482863165 e:\sara's collage\programming\mine sweeper\losing.h
+
+1482860321 e:\sara's collage\programming\mine sweeper\winning.h
+
+1482927584 e:\sara's collage\programming\mine sweeper\open.h
+
+1482862122 e:\sara's collage\programming\mine sweeper\save.h
+
+1482869075 e:\sara's collage\programming\mine sweeper\gameplay.h
+
+1482524670 e:\sara's collage\programming\mine sweeper\wait.h
+

@@ -1,0 +1,30 @@
+.this is a test
+prob4    start   1000
+         LDT      #4
+  COMPCH   LDCH        STR,X
+  SWAPCH     RMO     A,S
+         SUBR    L,X    .eng sara wahdan
+         LDCH    STR,X
+         COMPR   S,A
+         JLT                                  SWAP
+         JGT     NOSWAP
+         JEQ                            NOSWAP
+               SWAP     ADDR    L,X
+         STCH    STR,X
+NOSWAP           RMO            A,S
+         COMPR   X,B
+
+         JEQ     GO
+                  JGT     SWAPCH
+   GO                ADDR    L,B
+         JEQ     FINAL
+         JLT    COMPCH 
+
+
+
+
+
+
+FINAL            LDA     STR
+STR                                            BYTE    C'besa'
+         END     Prob4

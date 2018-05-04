@@ -1,0 +1,3 @@
+E:/2nd year 2nd semster/system programming/project/sic++/cmake-build-debug/CMakeFiles/sic__.dir
+E:/2nd year 2nd semster/system programming/project/sic++/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/2nd year 2nd semster/system programming/project/sic++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
